@@ -1,0 +1,32 @@
+.navbar {
+  background-color: #1e3a8a !important;
+}
+
+header.bg-primary {
+  background-color: sandybrown !important;
+  color: #f1f5f9 !important; 
+}
+.card {
+  background-color: #f8fafc; 
+  border-color: #cbd5e1;
+}
+
+.card.border-success {
+  background-color: #ecfdf5;
+  border-color: #10b981;
+}
+
+.card-title.text-success {
+  color: #059669 !important;
+}
+body {
+  background-color: antiquewhite !important;
+  color: #0f172a; 
+}
+#video h2 {
+  color: #1e40af; 
+}
+footer.bg-light {
+  background-color: royalblue !important;
+  color: white;
+}
